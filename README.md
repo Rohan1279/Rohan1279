@@ -4,7 +4,7 @@
 
 <br />
 
-[<p align="center"><img height="55" width="55" src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/LinkedIn_Logo.png">](https://www.linkedin.com/in/muniruddinrohan/)[<img height="55" width="55"  src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/Facebook_Logo.svg.webp">](https://www.facebook.com/munir.uddin.rohan/)
+[<p align="center"><img height="55"  src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/LinkedIn_Logo.png">](https://www.linkedin.com/in/muniruddinrohan/)[<img height="55"   src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/Facebook_Logo.svg.webp">](https://www.facebook.com/munir.uddin.rohan/)
 
 </p>
 
