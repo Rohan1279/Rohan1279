@@ -28,14 +28,14 @@
 
 <br>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/react.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/css.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/express.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/node.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/tailwind.png"/>
 </p><br/>
 
 <!-- ## :chart_with_upwards_trend: Current Stats -->
