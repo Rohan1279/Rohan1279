@@ -4,7 +4,9 @@
 
 <br />
 
-<!-- [<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
+[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/muniruddinrohan/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/munir.uddin.rohan/)
+<!-- [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_) -->
+
 
 <br />
 
@@ -17,8 +19,6 @@
 - 🔭 I’m currently working on an Full stack e-commerce project...
 - 🌱 I’m currently learning Python, Redux and Next.js...
 - 👯 I’m looking to collaborate on open source projects ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 <br />
 
