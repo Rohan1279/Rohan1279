@@ -39,4 +39,10 @@
 
 </div>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rohan1279&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rohan1279&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
