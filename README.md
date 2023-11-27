@@ -43,7 +43,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohan1279&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <blockquote style="background-color: #720D5D; color: white; padding: 20px; border-radius: 8px;">
   <p style="font-style: italic; font-size: 18px;">
     "Why spend 5 minutes doing something by hand when you can spend 5 hours failing to automate it?"
