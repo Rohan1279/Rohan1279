@@ -6,9 +6,7 @@
 
 <br />
 
-<!-- [<p align="center"><img height="55" src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/LinkedIn_Logo.png">](https://www.linkedin.com/in/muniruddinrohan/)[<img height="55" src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/Facebook_Logo.svg.webp">](https://www.facebook.com/munir.uddin.rohan/) -->
-
-[<img height="55" src="https://github.com/Rohan1279/Rohan1279/blob/main/images/icons/LinkedIn_Logo.png">](https://www.linkedin.com/in/muniruddinrohan/)[<img height="55" src="https://raw.githubusercontent.com/Rohan1279/Rohan1279/main/images/icons/Facebook_Logo.svg.webp">](https://www.facebook.com/munir.uddin.rohan/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/704749303431692369) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muniruddinrohan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muniruddinrohan) 
 
 
 
