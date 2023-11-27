@@ -44,5 +44,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rohan1279&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ### ✍️ Dev Quote
-![]Why spend 5 minutes doing something by hand when you can spend 5 hours failing to automate it.
+!Why spend 5 minutes doing something by hand when you can spend 5 hours failing to automate it.
 
