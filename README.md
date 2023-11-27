@@ -44,5 +44,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rohan1279&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<blockquote style="background-color: #720D5D; color: white; padding: 20px; border-radius: 8px;">
+  <p style="font-style: italic; font-size: 18px;">
+    "Why spend 5 minutes doing something by hand when you can spend 5 hours failing to automate it?"
+  </p>
+  <footer style="text-align: right; color: #E91E63;">
+    – probably some guy
+  </footer>
+</blockquote>
+
 
