@@ -1,6 +1,6 @@
 <!-- ![I am a Junior Front-end developer. ](https://i.ibb.co/vJBrT2s/profile-cover.jpg) -->
 
-![I am a Junior Front-end developer. ](https://i.ibb.co/sF6VC04/Profile-Cover-1-cropped.jpg)
+<!-- ![I am a Junior Front-end developer. ](https://i.ibb.co/sF6VC04/Profile-Cover-1-cropped.jpg) -->
 
 ## 🌐 Reach me out:
 
